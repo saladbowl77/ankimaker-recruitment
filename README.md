@@ -11,8 +11,6 @@
 - 満遍なく技術を触りたい
 - 個人開発等でのサービス開発が好き
 
-![](https://ankimaker.com/img/ogp.png)
-
 ## 募集要項
 
 |項目|内容|
@@ -48,6 +46,17 @@
 当社でプルリクエストの内容を確認したのち、記載いただいた連絡先宛にご連絡いたします。その後面談および条件のすり合わせを行い、問題なければ契約を結び勤務開始となる予定です。
 
 ※Xアカウントの場合は [@keita_developer](https://twitter.com/keita_developer) から、メールアドレスの場合は testmaker.contact@gmail.com からご連絡いたします。
+
+## サービスについて
+
+「暗記メーカー」は、自学自習の効率化を目的とした問題集作成用のサービスです。資格習得のための勉強や、複数人への問題集の配布のために活用されています。
+リリースからおよそ8年、現在累計ダウンロード数は90万人を突破しており、日々サービスの改善が進められています。
+
+- [Android版](https://play.google.com/store/apps/details?id=jp.gr.java_conf.foobar.testmaker.service)
+- [iOS版](https://apps.apple.com/jp/app/id1201200202)
+- [Web版](https://ankimaker.com/dash)
+
+![](https://ankimaker.com/img/ogp.png)
 
 ## FAQ
 
